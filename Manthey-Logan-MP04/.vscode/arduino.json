@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:uno",
+    "port": "COM3",
     "sketch": "Manthey-Logan-MP04.ino"
 }
